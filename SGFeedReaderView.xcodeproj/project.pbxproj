@@ -43,7 +43,6 @@
 		166DF7351833FA0900CBEA34 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 166DF7331833FA0900CBEA34 /* InfoPlist.strings */; };
 		16AEB110183434910077398D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 16AEB10D183434910077398D /* AppDelegate.m */; };
 		16AEB111183434910077398D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16AEB10F183434910077398D /* ViewController.m */; };
-		16AFCEA6182BB52400998D19 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16AFCEA5182BB52400998D19 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -113,7 +112,6 @@
 		16AEB10D183434910077398D /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SGFeedReader/AppDelegate.m; sourceTree = "<group>"; };
 		16AEB10E183434910077398D /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = SGFeedReader/ViewController.h; sourceTree = "<group>"; };
 		16AEB10F183434910077398D /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = SGFeedReader/ViewController.m; sourceTree = "<group>"; };
-		16AFCEA5182BB52400998D19 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -152,7 +150,6 @@
 				166DF7331833FA0900CBEA34 /* InfoPlist.strings */,
 				166DF7271833F8F400CBEA34 /* Main_iPad.storyboard */,
 				166DF7291833F8F400CBEA34 /* Main_iPhone.storyboard */,
-				16AFCEA5182BB52400998D19 /* Images.xcassets */,
 				165EDBD21812AFE600E5E388 /* SGFeedReader */,
 				165EDBF41812AFE600E5E388 /* SGFeederTests */,
 				165EDBCB1812AFE600E5E388 /* Frameworks */,
@@ -382,7 +379,6 @@
 				166DF7351833FA0900CBEA34 /* InfoPlist.strings in Resources */,
 				166DF72B1833F8F400CBEA34 /* Main_iPad.storyboard in Resources */,
 				166DF72C1833F8F400CBEA34 /* Main_iPhone.storyboard in Resources */,
-				16AFCEA6182BB52400998D19 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
