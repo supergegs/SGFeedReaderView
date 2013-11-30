@@ -41,6 +41,7 @@
 		166DF72B1833F8F400CBEA34 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 166DF7271833F8F400CBEA34 /* Main_iPad.storyboard */; };
 		166DF72C1833F8F400CBEA34 /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 166DF7291833F8F400CBEA34 /* Main_iPhone.storyboard */; };
 		166DF7351833FA0900CBEA34 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 166DF7331833FA0900CBEA34 /* InfoPlist.strings */; };
+		167800C8184A548F00974089 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 167800C7184A548F00974089 /* Images.xcassets */; };
 		16AEB110183434910077398D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 16AEB10D183434910077398D /* AppDelegate.m */; };
 		16AEB111183434910077398D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 16AEB10F183434910077398D /* ViewController.m */; };
 /* End PBXBuildFile section */
@@ -108,6 +109,7 @@
 		166DF72E1833F94300CBEA34 /* SGFeedReaderView-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SGFeedReaderView-Prefix.pch"; path = "SGFeedReader/SGFeedReaderView-Prefix.pch"; sourceTree = SOURCE_ROOT; };
 		166DF7311833F95D00CBEA34 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = SGFeedReader/en.lproj/InfoPlist.strings; sourceTree = SOURCE_ROOT; };
 		166DF7341833FA0900CBEA34 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = SGFeedReader/en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		167800C7184A548F00974089 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		16AEB10C183434910077398D /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = SGFeedReader/AppDelegate.h; sourceTree = "<group>"; };
 		16AEB10D183434910077398D /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = SGFeedReader/AppDelegate.m; sourceTree = "<group>"; };
 		16AEB10E183434910077398D /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ViewController.h; path = SGFeedReader/ViewController.h; sourceTree = "<group>"; };
@@ -150,6 +152,7 @@
 				166DF7331833FA0900CBEA34 /* InfoPlist.strings */,
 				166DF7271833F8F400CBEA34 /* Main_iPad.storyboard */,
 				166DF7291833F8F400CBEA34 /* Main_iPhone.storyboard */,
+				167800C7184A548F00974089 /* Images.xcassets */,
 				165EDBD21812AFE600E5E388 /* SGFeedReader */,
 				165EDBF41812AFE600E5E388 /* SGFeederTests */,
 				165EDBCB1812AFE600E5E388 /* Frameworks */,
@@ -377,6 +380,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				166DF7351833FA0900CBEA34 /* InfoPlist.strings in Resources */,
+				167800C8184A548F00974089 /* Images.xcassets in Resources */,
 				166DF72B1833F8F400CBEA34 /* Main_iPad.storyboard in Resources */,
 				166DF72C1833F8F400CBEA34 /* Main_iPhone.storyboard in Resources */,
 			);
